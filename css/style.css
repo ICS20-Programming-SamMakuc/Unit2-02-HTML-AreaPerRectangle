@@ -5,13 +5,13 @@
 */
 
 body {
- background-color: rgb(139 24 216);
- color: rgb(87 199 255);
+  background-color: rgb(139 24 216);
+  color: rgb(87 199 255);
 }
 
 h1 {
- background-color: rgb(0 86 179);;
- color: hsl(0 0% 100%);
- padding: 40px;
- text-align: center;
+  background-color: rgb(0 86 179);;
+  color: hsl(0 0% 100%);
+  padding: 40px;
+  text-align: center;
 }
